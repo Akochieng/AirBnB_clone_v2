@@ -1,0 +1,6 @@
+export HBNB_ENV="test"
+export HBNB_MYSQL_USER="test"
+export HBNB_MYSQL_PWD="test"
+export HBNB_MYSQL_HOST="localhost"
+export HBNB_MYSQL_DB="hbnb_dev_db"
+export HBNB_TYPE_STORAGE="db"
